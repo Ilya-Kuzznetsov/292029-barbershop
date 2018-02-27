@@ -1,0 +1,9 @@
+.page-header{ /* Стили для хэдера*/
+    display: block;
+    background-color: #000000;
+    color: white;
+    width: auto;
+    height: 75px;
+
+
+}
