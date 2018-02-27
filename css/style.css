@@ -1,9 +1,38 @@
+body{
+    width: 2560px;
+    height: 1756px;
+}
 .page-header{ /* Стили для хэдера*/
+    position: relative;
     display: block;
     background-color: #000000;
     color: white;
-    width: auto;
     height: 75px;
 
+}
+ul{
+    display: block;
+    position: absolute;
+    top: 15px;
+    left: 820px;
+}
+li{
+    display: inline-block;
+    margin-right: 42px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: bold;
+}
+.menu-links{
+    color: white;
+    text-decoration: none;
+    font-family: PT Sans Narrow;
 
+}
+.login{
+    position: absolute;
+    top: 25px;
+    right: 750px;
+    width: 45px;
+    height: 16px;
 }
