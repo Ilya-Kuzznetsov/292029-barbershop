@@ -18,7 +18,7 @@ ul{
 }
 li{
     display: inline-block;
-    margin-right: 42px;
+    margin-right: 40px;
     text-decoration: none;
     font-size: 16px;
     font-family: bold;
@@ -32,7 +32,7 @@ li{
 .login{
     position: absolute;
     top: 25px;
-    right: 750px;
+    right: 790px;
     width: 45px;
     height: 16px;
 }
