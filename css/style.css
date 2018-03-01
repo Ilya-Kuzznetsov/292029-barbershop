@@ -122,11 +122,9 @@ main{
     height: 419px;
     background-image: url("../img/news.png")
 }
-.liner{
+.news-gallery-news{
     display: block;
     position: relative;
-    width: 8px;
-    height: 278px;
-    left: 470px;
-    top: 80px;
+    width: 470px;
+    height: 419px;;
 }
